@@ -14,8 +14,8 @@ To examine the claim that language is not only a communication tool but also a *
 ---
 
 ## 📑 Content  
-- `rothschild_analysis.pdf` – Full academic paper analyzing Rothschild's theory  
-
+- `Regina Ati - Does Language Shape Our Reasoning.pdf` – Full academic paper analyzing Rothschild's theory
+- `Rothschild.pdf` – Rothschild's paper *Language and Domain-General Reasoning: Toward AI Cognition*
 
 ---
 
